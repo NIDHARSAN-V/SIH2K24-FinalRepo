@@ -1,0 +1,6 @@
+python-dotenv
+crewai
+langchain-groq
+utils
+agents
+fitz
